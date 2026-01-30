@@ -18,9 +18,3 @@ I'm Gabriel Tomazi, I'm Front-End Developer, actually learning and creating proj
 <img src="https://cdn-icons-png.flaticon.com/128/3536/3536569.png" width="30px">
 </a>
 </p>
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltomazi)](https://github.com/anuraghazra/github-readme-stats)
