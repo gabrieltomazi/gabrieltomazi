@@ -1,4 +1,4 @@
-<img width="1052" height="1052" alt="image" src="https://github.com/user-attachments/assets/9deea590-b0f7-4509-ae5a-ff7f8b52b885" />### Hey There 😎
+### Hey There 😎
 I'm Gabriel Tomazi, I'm Front-End Developer, actually learning and creating projects with:
 
 <br>
@@ -12,7 +12,7 @@ I'm Gabriel Tomazi, I'm Front-End Developer, actually learning and creating proj
 ### Connect With Me:
 <p>
 <a href="https://www.instagram.com/gabrieltomazi_" >
-<img align="left" src="https://simpleicons.org/icons/instagram.svg" width="30px">
+<img align="left" src="https://simpleicons.org/icons/instagram.svg" width="20px">
 </a>
 
 <a href="https://www.linkedin.com/in/gabriel-fernandes-tomazi-ab94a4324">
