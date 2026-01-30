@@ -3,9 +3,9 @@ I'm Gabriel Tomazi, I'm Front-End Developer, actually learning and creating proj
 
 <br>
   
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-- <img width="30px" alt="image" src="https://github.com/user-attachments/assets/dc357256-9f31-4ead-ba71-bf51c10aedf9" />
+- <img width="30px" alt="html" src="https://github.com/user-attachments/assets/f9e09110-90dc-4160-8359-9d97fcd4deb3" />
+- <img width="30px" alt="css" src="https://github.com/user-attachments/assets/517f42c5-0e0f-408f-8f9c-5b5afc4c1080" />
+- <img width="30px" alt="javascript" src="https://github.com/user-attachments/assets/dc357256-9f31-4ead-ba71-bf51c10aedf9" />
 
 
 
