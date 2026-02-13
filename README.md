@@ -8,7 +8,7 @@ I'm Gabriel Tomazi, I'm Front-End Developer, actually learning and creating proj
 <code><img width="30px" alt="javascript" src="https://github.com/user-attachments/assets/dc357256-9f31-4ead-ba71-bf51c10aedf9" /></code>
 <code><img width="30px" alt="react" src="https://github.com/user-attachments/assets/2cdc822a-1461-4633-a86f-d24c1feba0c9" /></code>
 
-
+<hr/>
 
 ### Connect With Me:
 <p>
