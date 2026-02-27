@@ -1,4 +1,4 @@
-### Hey There 😎
+### Hey There 
 I'm Gabriel Tomazi, I'm Front-End Developer, actually learning and creating projects with:
 
 <br>
