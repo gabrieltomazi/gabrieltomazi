@@ -8,7 +8,7 @@ I'm Gabriel Tomazi, I'm Front-End Developer, actually learning and creating proj
   <code><img width="30px" alt="css" src="https://github.com/user-attachments/assets/517f42c5-0e0f-408f-8f9c-5b5afc4c1080" /></code>
   <code><img width="30px" alt="javascript" src="https://github.com/user-attachments/assets/dc357256-9f31-4ead-ba71-bf51c10aedf9" /></code>
   <code><img width="30px" alt="react" src="https://github.com/user-attachments/assets/2cdc822a-1461-4633-a86f-d24c1feba0c9" /></code>
-  <code><img width="30px" alt="react" src="https://github.com/user-attachments/assets/52ea0828-b919-47f6-8fb1-cfd59ae3fd66" /></code>
+  <code><img width="30px" alt="node" src="https://github.com/user-attachments/assets/52ea0828-b919-47f6-8fb1-cfd59ae3fd66" /></code>
 </div>
 
 ### Connect With Me:
