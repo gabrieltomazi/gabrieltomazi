@@ -11,6 +11,14 @@ I'm Gabriel Tomazi, I'm Front-End Developer, actually learning and creating proj
   <code><img width="30px" alt="node" src="https://github.com/user-attachments/assets/52ea0828-b919-47f6-8fb1-cfd59ae3fd66" /></code>
 </div>
 
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img width=48% src="https://github-readme-streak-stats.herokuapp.com?user=gabrieltomazi&theme=dracula&mode=weekly" alt="GitHub Streak Stats" />
+  <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltomazi&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
+</div>
+
+
 ### Connect With Me:
 <p>
 <a href="https://www.instagram.com/gabrieltomazi_" >
