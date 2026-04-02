@@ -42,6 +42,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-006eff?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![Prisma](https://img.shields.io/badge/Prisma-006eff?style=for-the-badge&logo=prisma&logoColor=fff)
 
+---
 
 ## 📈 Estatísticas do GitHub
 
@@ -50,6 +51,7 @@
   <!-- <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltomazi&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" /> -->
 </div>
 
+---
 
 ## 🌐 Conecte-se Comigo:
 
