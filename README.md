@@ -15,17 +15,20 @@ I'm Gabriel Tomazi, I'm Front-End Developer, actually learning and creating proj
 
 <div align="center">
   <img width=48% src="https://github-readme-streak-stats.herokuapp.com?user=gabrieltomazi&theme=dracula&mode=weekly" alt="GitHub Streak Stats" />
-  <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltomazi&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
+  <!-- <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltomazi&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" /> -->
 </div>
 
 
-### Connect With Me:
-<p>
-<a href="https://www.instagram.com/gabrieltomazi_" >
-<img align="left" src="https://simpleicons.org/icons/instagram.svg" width="30px">
-</a>
+## 🌐 Conecte-se Comigo:
 
-<a href="https://www.linkedin.com/in/gabriel-tomazi">
-<img src="https://cdn-icons-png.flaticon.com/128/3536/3536569.png" width="30px">
-</a>
-</p>
+### Redes Sociais
+<div align="center">
+<a href="https://www.instagram.com/gabrieltomazi_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:gtomazi193@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/gabriel-tomazi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
+
+### Meu Site
+<div align="center">
+<a href="https://gabrieltomazi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-portfolio.com.br-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Meu Site"></a>
+</div>
