@@ -9,6 +9,7 @@ I'm Gabriel Tomazi, I'm Front-End Developer, actually learning and creating proj
   <code><img width="30px" alt="javascript" src="https://github.com/user-attachments/assets/dc357256-9f31-4ead-ba71-bf51c10aedf9" /></code>
   <code><img width="30px" alt="react" src="https://github.com/user-attachments/assets/2cdc822a-1461-4633-a86f-d24c1feba0c9" /></code>
   <code><img width="30px" alt="node" src="https://github.com/user-attachments/assets/52ea0828-b919-47f6-8fb1-cfd59ae3fd66" /></code>
+  <code><img width="30px" alt="prisma" src="https://github.com/user-attachments/assets/f4c7e54b-5067-4aee-a2f3-874ec27e55e9" /></code>
 </div>
 
 ## 📈 Estatísticas do GitHub
