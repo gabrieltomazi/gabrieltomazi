@@ -1,16 +1,47 @@
-### Hey There 
-I'm Gabriel Tomazi, I'm Front-End Developer, actually learning and creating projects with:
-
-<br>
-
-<div display='flex'>
-  <code><img width="30px" alt="html" src="https://github.com/user-attachments/assets/4a1af68f-fbae-4edc-8aed-ea6b344556f3" /></code>
-  <code><img width="30px" alt="css" src="https://github.com/user-attachments/assets/517f42c5-0e0f-408f-8f9c-5b5afc4c1080" /></code>
-  <code><img width="30px" alt="javascript" src="https://github.com/user-attachments/assets/dc357256-9f31-4ead-ba71-bf51c10aedf9" /></code>
-  <code><img width="30px" alt="react" src="https://github.com/user-attachments/assets/2cdc822a-1461-4633-a86f-d24c1feba0c9" /></code>
-  <code><img width="30px" alt="node" src="https://github.com/user-attachments/assets/52ea0828-b919-47f6-8fb1-cfd59ae3fd66" /></code>
-  <code><img width="30px" alt="prisma" src="https://github.com/user-attachments/assets/f4c7e54b-5067-4aee-a2f3-874ec27e55e9" /></code>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=006eff&height=200&section=header&text=Gabriel%20Tomazi&fontSize=55&fontColor=fff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%&descAlignY=58&descSize=18&descColor=000000%22"
 </div>
+  
+<br/>
+
+<div>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=700&size=20&duration=3000&pause=1000&color=006eff&center=true&width=600&lines=Building+things+that+actually+make+sense.;Fullstack+Developer+in+progress.;Passionate+about+Tech+%2B+Design." />
+</div>
+
+---
+<!--"You don't have to be great to start, but you have to start to be great." -->
+
+## 💬 About me
+<div align= "left">
+  <p>I'm a Front-End Developer currently pursuing a degree in <b>Software Engineering</b> at SATC (Santa Catarina, Brazil). <br>
+  I am passionate about transforming lines of code into intuitive, high-performance, and visually appealing web interfaces.
+
+  Currently, I'm enhancing my Full-Stack skills at DevClub, working with technologies like React, Node.js, TypeScript, and MongoDB/PostgreSQL. I thrive on challenges that involve performance optimization and clean code.
+  </p>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<p><b>FrontEnd</b></p>
+
+![HTML5](https://img.shields.io/badge/HTML5-006eff?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-006eff?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-006eff?style=for-the-badge&logo=javascript&logoColor=fff)
+![React](https://img.shields.io/badge/React-006eff?style=for-the-badge&logo=react&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-006eff?style=for-the-badge&logo=vite&logoColor=fff)
+
+<p><b>BackEnd</b></p>
+
+![Node.js](https://img.shields.io/badge/Node.js-006eff?style=for-the-badge&logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-006eff?style=for-the-badge&logo=express&logoColor=fff)
+
+<p><b>DataBase & ORM</b></p>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-006eff?style=for-the-badge&logo=mongodb&logoColor=fff)
+![Prisma](https://img.shields.io/badge/Prisma-006eff?style=for-the-badge&logo=prisma&logoColor=fff)
+
 
 ## 📈 Estatísticas do GitHub
 
@@ -31,5 +62,9 @@ I'm Gabriel Tomazi, I'm Front-End Developer, actually learning and creating proj
 
 ### Meu Site
 <div align="center">
-<a href="https://gabrieltomazi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-portfolio.com.br-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Meu Site"></a>
+<a href="https://gabrieltomazi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Meu Site"></a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=006eff&height=120&section=footer" />
 </div>
