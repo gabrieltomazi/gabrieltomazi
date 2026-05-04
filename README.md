@@ -13,10 +13,11 @@
 
 ## 💬 About me
 <div align= "left">
-  <p>I'm a Front-End Developer currently pursuing a degree in <b>Software Engineering</b> at SATC (Santa Catarina, Brazil). <br>
-  I am passionate about transforming lines of code into intuitive, high-performance, and visually appealing web interfaces.
-
-  Currently, I'm enhancing my Full-Stack skills at DevClub, working with technologies like React, Node.js, TypeScript, and MongoDB/PostgreSQL. I thrive on challenges that involve performance optimization and clean code.
+  <p>
+  Sou desenvolvedor Front-End e atualmente curso Engenharia de Software na SATC.
+  Sou apaixonado por transformar linhas de código em interfaces web intuitivas, de alto desempenho e visualmente atraentes.
+  
+  Atualmente, estou aprimorando minhas habilidades full-stack no DevClub, trabalhando com tecnologias como React, Node.js, TypeScript e MongoDB/PostgreSQL. Prospero em desafios que       envolvem otimização de desempenho e código limpo.
   </p>
 </div>
 
