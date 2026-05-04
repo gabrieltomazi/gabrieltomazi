@@ -14,10 +14,8 @@
 ## 💬 About me
 <div align= "left">
   <p>
-  Sou desenvolvedor Front-End e atualmente curso Engenharia de Software na SATC.
-  Sou apaixonado por transformar linhas de código em interfaces web intuitivas, de alto desempenho e visualmente atraentes.
-  
-  Atualmente, estou aprimorando minhas habilidades full-stack no DevClub, trabalhando com tecnologias como React, Node.js, TypeScript e MongoDB/PostgreSQL. Prospero em desafios que       envolvem otimização de desempenho e código limpo.
+    Sou desenvolvedor Front-End e atualmente curso Engenharia de Software na SATC.
+    Sou apaixonado por transformar linhas de código em interfaces web intuitivas, de alto desempenho e visualmente atraentes.
   </p>
 </div>
 
