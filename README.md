@@ -30,6 +30,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-006eff?style=for-the-badge&logo=javascript&logoColor=fff)
 ![React](https://img.shields.io/badge/React-006eff?style=for-the-badge&logo=react&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-006eff?style=for-the-badge&logo=vite&logoColor=fff)
+![Styled-Components](https://img.shields.io/badge/styled-components-006eff?style=for-the-badge&logo=vite&logoColor=fff)
 
 <p><b>BackEnd</b></p>
 
