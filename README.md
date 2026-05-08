@@ -23,24 +23,25 @@
 
 ## 🛠️ Tech Stack
 
-<p><b>FrontEnd</b></p>
+<p><b>Front-End</b></p>
 
 ![HTML5](https://img.shields.io/badge/HTML5-006eff?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-006eff?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-006eff?style=for-the-badge&logo=javascript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-006eff?style=for-the-badge&logo=javascript&logoColor=fff) <br/>
 ![React](https://img.shields.io/badge/React-006eff?style=for-the-badge&logo=react&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-006eff?style=for-the-badge&logo=vite&logoColor=fff)
-![Styled-Components](https://img.shields.io/badge/styled-components-006eff?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-006eff?style=for-the-badge&logo=tailwind-css&logoColor=fff)
+![Styled Components](https://img.shields.io/badge/Styled_Components-006eff?style=for-the-badge&logo=styled-components&logoColor=fff)
 
-<p><b>BackEnd</b></p>
+<p><b>Back-End</b></p>
 
-![Node.js](https://img.shields.io/badge/Node.js-006eff?style=for-the-badge&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-006eff?style=for-the-badge&logo=express&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-339933?style=for-the-badge&logo=express&logoColor=fff)
 
 <p><b>DataBase & ORM</b></p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-006eff?style=for-the-badge&logo=mongodb&logoColor=fff)
-![Prisma](https://img.shields.io/badge/Prisma-006eff?style=for-the-badge&logo=prisma&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-334155?style=for-the-badge&logo=mongodb&logoColor=fff)
+![Prisma](https://img.shields.io/badge/Prisma-334155?style=for-the-badge&logo=prisma&logoColor=fff)
 
 ---
 
