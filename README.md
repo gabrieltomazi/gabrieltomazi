@@ -45,7 +45,7 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Stats
 
 <div align="center">
   <img width=48% src="https://github-readme-streak-stats.herokuapp.com?user=gabrieltomazi&theme=dracula&mode=weekly" alt="GitHub Streak Stats" />
@@ -54,7 +54,7 @@
 
 ---
 
-## 🌐 Conecte-se Comigo:
+## 🌐 Connect with me:
 
 ### Socials
 <div align="center">
