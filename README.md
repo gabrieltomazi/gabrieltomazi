@@ -14,8 +14,8 @@
 ## 💬 About me
 <div align= "left">
   <p>
-    Sou desenvolvedor Front-End e atualmente curso Engenharia de Software na SATC. <br/>
-    Apaixonado por transformar linhas de código em interfaces web intuitivas, de alto desempenho e visualmente atraentes.
+    I am a Front-End developer and currently studying Software Engineering at SATC.
+    I am passionate about transforming lines of code into intuitive, high-performance, and visually appealing web interfaces.
   </p>
 </div>
 
