@@ -30,7 +30,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-006eff?style=for-the-badge&logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-006eff?style=for-the-badge&logo=javascript&logoColor=fff) <br/>
 ![React](https://img.shields.io/badge/React-006eff?style=for-the-badge&logo=react&logoColor=fff)
-![Nextjs](https://img.shields.io/badge/Nextjs-006eff?style=for-the-badge&logo=nextjs&logoColor=fff)
+![Next](https://img.shields.io/badge/next.js-006eff?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-006eff?style=for-the-badge&logo=vite&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-006eff?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-006eff?style=for-the-badge&logo=styled-components&logoColor=fff)
@@ -42,9 +42,9 @@
 
 <p><b>DataBase & ORM</b></p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-334155?style=for-the-badge&logo=mongodb&logoColor=fff)
-![Prisma](https://img.shields.io/badge/Prisma-334155?style=for-the-badge&logo=prisma&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334155?style=for-the-badge&logo=postgresql&logoColor=fff)
+![Prisma](https://img.shields.io/badge/Prisma-334155?style=for-the-badge&logo=prisma&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-334155?style=for-the-badge&logo=mongodb&logoColor=fff)
 ---
 
 ## 📈 GitHub Stats
