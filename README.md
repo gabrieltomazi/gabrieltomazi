@@ -65,7 +65,7 @@
   <a href="https://www.linkedin.com/in/gabriel-tomazi/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
 </div>
 
-### Meu portfólio
+### Portfólio
 <div align="center">
   <a href="https://gabrieltomazi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Meu Site"></a>
 </div>
