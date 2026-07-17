@@ -68,6 +68,7 @@
 
 ### Portfólio
 <div align="center">
+  [Meu Portfólio ↗ Repositório](https://gabriel-tomazi.vercel.app/)
   <a href="https://gabriel-tomazi.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-portfolio-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Meu Portfolio"></a>
 </div>
 
