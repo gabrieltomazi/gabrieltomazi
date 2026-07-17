@@ -34,6 +34,7 @@
 ![Vite](https://img.shields.io/badge/Vite-006eff?style=for-the-badge&logo=vite&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-006eff?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-006eff?style=for-the-badge&logo=styled-components&logoColor=fff)
+![Zod](https://img.shields.io/badge/Zod-006eff?style=for-the-badge&logo=zod&logoColor=fff)
 
 <!-- <p><b>Back-End</b></p>
 
