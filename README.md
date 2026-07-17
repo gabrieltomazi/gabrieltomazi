@@ -14,7 +14,7 @@
 ## 💬 Sobre mim
 <div align= "left">
   <p>
-    Sou desenvolvedor Front-End e atualmente estou na 3ª fase do curso de Engenharia de Software na SATC. <br/>
+    Sou desenvolvedor Front-End e atualmente estou na 4ª fase do curso de Engenharia de Software na SATC. <br/>
     <!-- Apaixonado por transformar linhas de código em interfaces intuitivas, alta performance, e interfaces visualmente atraentes. -->
     Estou aprofundando meus conhecimentos em linguagens com foco em Front-End, sempre buscando me manter atualizado com as tecnologias 
   </p>
