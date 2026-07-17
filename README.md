@@ -68,7 +68,7 @@
 
 ### Portfólio
 <div align="center">
-  <a href="https://gabrieltomazi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Meu Site"></a>
+  <a href="https://gabriel-tomazi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Meu Site"></a>
 </div>
 
 <div align="center">
