@@ -31,6 +31,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-006eff?style=for-the-badge&logo=javascript&logoColor=fff) <br/>
 ![React](https://img.shields.io/badge/React-006eff?style=for-the-badge&logo=react&logoColor=fff)
 ![Next](https://img.shields.io/badge/next.js-006eff?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next](https://img.shields.io/badge/TypeScript-006eff?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-006eff?style=for-the-badge&logo=vite&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-006eff?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-006eff?style=for-the-badge&logo=styled-components&logoColor=fff)
