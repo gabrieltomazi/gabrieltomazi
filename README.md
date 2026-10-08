@@ -32,6 +32,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-006eff?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 <br/>
 ![React](https://img.shields.io/badge/React-006eff?style=for-the-badge&logo=react&logoColor=fff)
+![React Native](https://img.shields.io/badge/React_Native-006eff?style=for-the-badge&logo=react&logoColor=fff)
 ![Next](https://img.shields.io/badge/next.js-006eff?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-006eff?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-006eff?style=for-the-badge&logo=vite&logoColor=fff)
