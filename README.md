@@ -39,10 +39,10 @@
 ![Styled Components](https://img.shields.io/badge/Styled_Components-006eff?style=for-the-badge&logo=styled-components&logoColor=fff)
 ![Zod](https://img.shields.io/badge/Zod-006eff?style=for-the-badge&logo=zod&logoColor=fff)
 
-<!-- <p><b>Back-End</b></p>
+<p><b>Back-End</b></p>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-339933?style=for-the-badge&logo=express&logoColor=fff) -->
+![Express](https://img.shields.io/badge/Express-339933?style=for-the-badge&logo=express&logoColor=fff)
 
 <p><b>DataBase & ORM</b></p>
 
